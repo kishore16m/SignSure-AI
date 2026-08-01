@@ -1,0 +1,8 @@
+{
+  "name": "SignSure AI",
+  "description": "AI legal document analyzer for risk scoring, clause explanations, pre-signing checklists, and interactive document chat.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
